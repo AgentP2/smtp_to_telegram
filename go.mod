@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/docker/go-units v0.5.0
-	github.com/flashmob/go-guerrilla v1.6.1
+	github.com/phires/go-guerrilla v1.6.6
 	github.com/jhillyerd/enmime v1.0.0
 	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli/v2 v2.25.7
